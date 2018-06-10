@@ -1,0 +1,11 @@
+[27-Mar-2018 11:25:08 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:25:13 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:25:22 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:25:40 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:25:45 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:26:09 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:26:21 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:27:09 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:27:25 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[27-Mar-2018 11:28:08 UTC] PHP Fatal error:  Call to a member function get_color_scheme() on null in /home2/humantouch/public_html/blog/wp-content/themes/custom-lite/functions.php on line 284
+[17-Apr-2018 16:13:15 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
