@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<?php include ('head.php');?>
-	
+
 	<style type="text/css">
 	.project-discription .right-content .img-box li {
     float: left;
@@ -31,22 +31,22 @@
 						</div>
 					</div>
 				</div>-->
-				
+
 				<!--<img src="images/banner-bg.jpg" alt="" class="img-responsive" style="margin-top: 120px;">-->
 
-			 
+
 			   	<div class="container-fluid" style="padding-right:0px; padding-left: 0px;">
 						<section class="content-panel alternative_treatments shoulder-surgery-section clearfix">
-                        
+
                         <div class="container clearfix">
                           <div class="row">
                           <div class="col-md-12 banner-caption-text clearfix">Alternative Treatments for Knee Arthritis & Back Problems</div>
                           </div>
                          </div>
-               
+
             </section>
 						</div>
-			
+
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
@@ -61,34 +61,34 @@
 								</ul>
 							</div>
 						</div>
-						
-						
-					
-						
+
+
+
+
 						<div class="col-xs-12">
-						
+
 						<div class="row">
-						
+
 						<div class="project-discription clearfix">
 						<div class="col-md-12">
-						 
+
                              <div class="col-xs-12 col-sm-3 col-md-3"><div class="nav-side-menu">
 								 <div class="brand">Departments</div>
     <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content" style="visibility: visible !important;"></i>
-  
+
        <?php include_once("department_leftmenu.php");?>
-	 
-	 
+
+
 	 </div>
-                           
-                           
+
+
                            </div><!--col-md-5 end--->
-                           
+
                             <div class="col-xs-12 col-sm-9 col-md-9 joint">
-                            
-                   
+
+
 <div class="testi_section">
- <div class="row"> 
+ <div class="row">
   <div class="col-md-3 inner-page-video-box clearfix">
     <div class="viceo_box">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/m2qJMbzwA3w" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
@@ -97,9 +97,9 @@
     VISSCOSUPPLEMENTATION THERAPY FOR KNEE ARTHRITIS
     </p>
    </div>
-   
-   
-   
+
+
+
  </div>
 </div>
 
@@ -107,7 +107,7 @@
 
 
 
-				   
+
 <h4>Alternative Treatments for Joints, back  and neck Pains :</h4>
 
 <p>Back pain, Disc Prolapse, Knee Arthritis and Joint pain are very common, irrespective of the age. Most of these cases can be cured using conservation treatment and changes in life style.</p>
@@ -220,16 +220,16 @@ Take a break.</p>
 
 <h4>How Are The Stem Cells Injected ?</h4>
 
-<p>The area of injury is first identified using ultrasound or fluoroscopy. The area is then sterilized, and the skin above the area is numbed with a novocaine-type solution.  Using ultrasound or fluoroscopic guidance, the needle is guided to the area of injury, and the stem cell solution is injected. All the regenerative injections performed at our practice are performed under image guidance with ultrasound or fluoroscopy to confirm accurate placement of the stem cells.</p> 
+<p>The area of injury is first identified using ultrasound or fluoroscopy. The area is then sterilized, and the skin above the area is numbed with a novocaine-type solution.  Using ultrasound or fluoroscopic guidance, the needle is guided to the area of injury, and the stem cell solution is injected. All the regenerative injections performed at our practice are performed under image guidance with ultrasound or fluoroscopy to confirm accurate placement of the stem cells.</p>
 
 <h4>When will I see Benefit from the Procedure?</h4>
 
-<p>The benefit is usually seen approximately two to three months after the whole treatment protocol has 
-completed; however, you may start to notice the benefit sooner than this.</p>  
+<p>The benefit is usually seen approximately two to three months after the whole treatment protocol has
+completed; however, you may start to notice the benefit sooner than this.</p>
 
 <h4>How many Injections do I need?</h4>
 
-<p>In most cases, patients respond very well to just one treatment; however, the patient may require two to 
+<p>In most cases, patients respond very well to just one treatment; however, the patient may require two to
 three injections. We never perform more than three injections within a span of 12 months.</p>
 
 
@@ -273,22 +273,22 @@ three injections. We never perform more than three injections within a span of 1
 
 
 
-                            
 
-                            
 
-                        
+
+
+
 
 
                                </div><!--col-md-7 end--->
-                       
+
 							</div>
 							</div>
 							</div>
-							
+
 						</div>
 
-						
+
 
 					</div>
 
@@ -296,7 +296,7 @@ three injections. We never perform more than three injections within a span of 1
 
 			</div>
 			<!--content Section End Here -->
-			
+
 			<!--footer Section Start Here -->
 			<?php include ('footer.php');?>
 			<!--footer Section End Here -->
@@ -305,7 +305,7 @@ three injections. We never perform more than three injections within a span of 1
 		<!--Wrapper Section End Here -->
 
 		<?php include ('scripts.php');?>
-		
-		
+
+
 	</body>
 </html>

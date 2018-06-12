@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<?php //include ('head.php');?>
-	
-	
+
+
 <head>
 <meta charset="utf-8">
 <meta name="google-site-verification" content="qj6AITzgDj_CCTDrr3LaGWWs_TfK7vcyIPiaPxeU_tM" />
@@ -51,12 +51,12 @@ function gtag_report_conversion(url) {
   });
   return false;
 }
-</script>		
+</script>
 </head>
-	
-	
-	
-	
+
+
+
+
 	<style type="text/css">
 	.project-discription .right-content .img-box li {
     float: left;
@@ -86,22 +86,22 @@ function gtag_report_conversion(url) {
 						</div>
 					</div>
 				</div>-->
-				
+
 				<!--<img src="images/banner-bg.jpg" alt="" class="img-responsive" style="margin-top: 120px;">-->
 
-			 
+
 			   	<div class="container-fluid" style="padding-right:0px; padding-left: 0px;">
 						<section class="content-panel jaint-replace knee-section clearfix">
-                        
+
                         <div class="container clearfix">
                           <div class="row">
                           <div class="col-md-12 banner-caption-text clearfix">Knee joint replacement</div>
                           </div>
                          </div>
-               
+
             </section>
 						</div>
-			
+
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
@@ -116,37 +116,37 @@ function gtag_report_conversion(url) {
 								</ul>
 							</div>
 						</div>
-						
-						
-					
-						
+
+
+
+
 						<div class="col-xs-12">
-						
+
 						<div class="row">
-						
+
 						<div class="project-discription clearfix">
 						<div class="col-md-12">
-						 
+
                              <div class="col-xs-12 col-sm-3 col-md-3"><div class="nav-side-menu">
 								 <div class="brand">Departments</div>
     <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content" style="visibility: visible !important;"></i>
-  
+
   <?php include_once("department_leftmenu.php");?>
-  
+
 </div>
-                           
-                           
+
+
                            </div>
                             <div class="col-xs-12 col-sm-9 col-md-9">
-                                  
-                                  
-                                  
+
+
+
             <div class="testi_section">
 
  <div class="row">
- 
+
  <h5 style="margin-left:20px!important;color:red!important;">Out of our many knee replacement success stories here are a few</h5><br><br>
- 
+
   <div class="col-md-3 inner-page-video-box clearfix">
     <div class="viceo_box">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fKBcLwUI2nI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0"  allowfullscreen></iframe>
@@ -157,9 +157,9 @@ function gtag_report_conversion(url) {
    </div>
    <div class="col-md-3 inner-page-video-box clearfix">
     <div class="viceo_box">
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mOu8-OnbykI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-    
+
     </div>
     <p>
     Patient with Gross Knee deformity was operated  Joint Replacement Surgery by Dr Mir Jawad Zar Khan achieved excellent results ,you can see post and pre surgery results in his own testimonial …
@@ -167,9 +167,9 @@ function gtag_report_conversion(url) {
    </div>
    <div class="col-md-3 inner-page-video-box clearfix">
     <div class="viceo_box">
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uLZRmZDo6pA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-    
+
     </div>
     <p>
     Mrs Sunitha suffering with Osteoarthritis, Underwent both Knee Replacement Surgery performed by Dr Mir Jawad Jar Khan she could walk without support after 3 days.
@@ -177,9 +177,9 @@ function gtag_report_conversion(url) {
    </div>
    <div class="col-md-3 inner-page-video-box clearfix">
     <div class="viceo_box">
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqiFLEhMdDk?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-    
+
     </div>
     <p>
     Mrs Qumar Najma was Unable to walk since  due to Osteoarthritis , convinced by Dr Mir Jawad sirs Explanation about Patients Issue to her family ,she underwent Total Knee Replacement.
@@ -187,67 +187,67 @@ function gtag_report_conversion(url) {
    </div>
      <div class="clr"></div>
    <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fmYfyXaBAUU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>    
+    <div class="viceo_box">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fmYfyXaBAUU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>
     Patient was suffering with Osteoarthritis for more than 5 , No doctor was willing to operate on him because of his Heart related issues. Dr Mir Jawad Sir has experience in handling sensitive surgeries.
     </p>
    </div>
    <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/mFFeUy9xhiI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>    
+    <div class="viceo_box">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mFFeUy9xhiI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
     </div>
     <p>
    Female Patient 75years suffering from severe osteoarthritis both knees under went both knee replacement at same time.
     </p>
    </div>
    <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jiEaEJA2gWw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>   
+    <div class="viceo_box">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jiEaEJA2gWw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
     </div>
     <p>
    Partial Knee Replacement with the Arthrex® iBalance® UKA
     </p>
    </div>
-   
+
    <div class="clr"></div>
    <div class="text-center">
                              <a href="https://www.youtube.com/results?search_query=dr.mir+jawad+zar+khan" class="btn btn-primary btn-lg custom-btn">View More Testimonials</a>
                             </div>
    <div class="clr"></div>
    <hr/>
-   
-   
- 
+
+
+
  </div>
 
 
-</div>                      
-                                  
-                                  
-                                  
-                                  
+</div>
 
 
-                            
+
+
+
+
+
 
 							<div class="col-md-12 inner-page-video-box clearfix">
 							<div class="col-md-6 inner-page-video-box clearfix">
-							<div class="viceo_box">    
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/Vp0F7qzdtsc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>    
-							</div>							
-						   </div>
-						   
-						   <div class="col-md-6 inner-page-video-box clearfix">
-							<div class="viceo_box">    
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/-xYbTYgWWfw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>    
-							</div>							
-						   </div>
-						   
+							<div class="viceo_box">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/Vp0F7qzdtsc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+							</div>
 						   </div>
 
-           <div style="height:30px; clear:both;"></div>   
+						   <div class="col-md-6 inner-page-video-box clearfix">
+							<div class="viceo_box">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/-xYbTYgWWfw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+							</div>
+						   </div>
+
+						   </div>
+
+           <div style="height:30px; clear:both;"></div>
                                 <h4>Best Center for Knee Replacement in India</h4>
                                 <p>We are prominent knee replacement hospital located at Hyderabad, with multiple success stories in knee replacement surgery. A visionary & founder of our hospital, with intention of providing quality health services. Dr. Mir Jawad Zar Khan's name  goes hand in hand with Knee replacement Surgery. He’s the founder of the revolutionary OS needle used by orthopedic surgeons globally. Dr.  Mir Jawad Zar Khan introduced laminar air flow in the OT to implement knee joint replacement in India for the first time  in modern and sophisticated class100 OT operation theatre which increase the surgery success rate. Today, our Hospital is the best in class Knee Replacement Centre, the best Knee Replacement Hospital</p>
 
@@ -306,7 +306,7 @@ function gtag_report_conversion(url) {
 							 <p>There are basically two kinds of Knee replacement surgeries namely the  TKR (Total Knee Replacement) and UKR (Unicondylar / Partial Knee Replacement). Knee Replacement is a  surgery that’s done as a part of the knee or done only over a partial area or a total knee replacement. Typically, the surgery removes the damaged joint  and the surface is replaced with either metal  or  plastic surface which allows ease of movement in the  knee joint area. It’s also called as Implant or Prosthesis.</p>
 
 							 <!--<h4>Partial Knee Replacement (PKR)</h4>
-                              
+
                               <p>Partial knee replacement, also referred to as ‘unicompartmental knee Arthroplasty or unicondylar knee Arthroplasty’ is a surgical procedure  which targets the  treatment of osteoarthritis of the knee joint where the entire knee joint is not  replaced. Usually patients  opt  for  total knee replacement  when there is  severe arthritis in the knee joint. In a total knee replacement, the complete cartilage is removed from the knee joint, and a single metal implant is  replaced. </p>-->
 
                               <!--<h4>Conditions for Partial Knee Replacement</h4>
@@ -331,15 +331,15 @@ function gtag_report_conversion(url) {
 							  <p>Improper alignment of the joint</p>
 							  <p>The quality of the metal or plastic used for the implant</p>-->
 
-                                 
+
                                  <p>At our hospital we take utmost care that our patients are treated in the most sterile conditions. Our Class100 OTs  matches to the most strict infection control standards, we have mastered the usage of Surgical Spacesuit  worn by our surgeons while performing the surgery to eliminate any chances of  infections. Negative Air pressure in the OTs  ensures that the air outside the complex makes  the OT completely sterile.</p>
-								 
-								 
-								 
-								 <div id="pkr" style="margin-top:50px;">
-									<h4>PARTIAL KNEE REPLACEMENT (PKR)</h4> 
+
+
+
+								 <a id="pkr" style=" display: block;position: relative;  top: -150px;visibility: hidden;"></a>
+									<h4>PARTIAL KNEE REPLACEMENT (PKR)</h4>
 								<p>A partial knee replacement is an alternative to total knee replacement for some patients with osteoarthritis of the knee. This surgery can be done when the damage is confined to a particular compartment of the knee.</p>
-                                
+
 <p>In a partial knee replacement, only the damaged part of the knee cartilage is replaced with prosthesis.</p>
 
 <p>Patients with medial, or lateral, knee osteoarthritis can be considered for partial knee replacement. "Medial" refers to the inside compartment of the joint, which is the compartment nearest the opposite knee, while "lateral" refers to the outside compartment farthest from the opposite knee. Medial knee joint degeneration is the most common deformity of arthritis.</p>
@@ -355,29 +355,29 @@ function gtag_report_conversion(url) {
  <p>You should be back to full activity in about 6 to 8 weeks. Impact exercises or jogging/running may not be recommended because the replacement includes a bearing surface that can wear. However, activities like tennis, skiing, and other sports are okay. This, of course, is why partial knee replacement is even being considered — to return you to activities you enjoy.
 </p>
 								 </div>
-                                 
-                                 
-                                 
-                                 
-              
 
-                           
-                                 
-                                 
-                                 
-                                 
-                                 
-                                 
-                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
                             </div>
-							
+
 							</div>
 							</div>
 							</div>
-							
+
 						</div>
 
-						
+
 
 					</div>
 
@@ -385,7 +385,7 @@ function gtag_report_conversion(url) {
 
 			</div>
 			<!--content Section End Here -->
-			
+
 			<!--footer Section Start Here -->
 			<?php include ('footer.php');?>
 			<!--footer Section End Here -->
@@ -394,7 +394,7 @@ function gtag_report_conversion(url) {
 		<!--Wrapper Section End Here -->
 
 		<?php include ('scripts.php');?>
-		
-		
+
+
 	</body>
 </html>

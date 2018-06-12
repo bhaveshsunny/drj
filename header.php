@@ -144,7 +144,7 @@
                  <li> <a href="neurology.php">Neurology</a> </li>
                 <li> <a href="general-orthopedics.php">General Orthopaedics</a> </li>
                  <li> <a href="rheumatology-and-arthritis.php">Rheumatology & Arthritis</a> </li>
-                 <li> <a href="rheumatology-and-arthritis.php">Maxillofacial</a> </li>
+                 <li> <a href="maxillofacial.php">Maxillofacial</a> </li>
 		 <li> <a href="joint-replacement.php">Joint Replacement</a> </li>
 		 <li> <a href="plastic-and-reconstructive.php">Plastic & Reconstructive Surgery</a> </li>
                 <li> <a href="hand-and-microvascular.php">Hand & Microvascular Surgery</a> </li>
