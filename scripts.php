@@ -1,15 +1,15 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
-<script src="js/jquery.easing.1.3.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
 
 
 
-<script src="js/bootstrap.min.js"></script> 
- <script src="js/less.js"></script> 
-<script src="js/jquery.bxslider.js"></script> 
-<script src="js/jquery.flexslider.js" defer=""></script> 
-<script src="js/site.js"></script> 
-<!-- Switcher Js --> 
-<script src="js/style.switcher.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+ <script src="js/less.js"></script>
+<script src="js/jquery.bxslider.js"></script>
+<script src="js/jquery.flexslider.js" defer=""></script>
+<script src="js/site.js"></script>
+<!-- Switcher Js -->
+<script src="js/style.switcher.js"></script>
 <script src="js/jquery.cookie.js"></script>
 
 <!-- Switcher Js -->
@@ -19,12 +19,12 @@
 	$('#myCarousel').carousel({
 	interval: 10000
 	})
-    
+
     $('#myCarousel').on('slid.bs.carousel', function() {
     	//alert("slid");
 	});
-    
-    
+
+
 });
 
 </script>
@@ -32,57 +32,31 @@
 
 	<script src="slick/slick.js" type="text/javascript" charset="utf-8"></script>
     <script type="text/javascript">
-	
+    var viewportWidth = $(window).width();
+    if( viewportWidth > 768 ){
+        var Rows = 1;
+        var Slides = 5;
+    } else {
+        var Rows = 2;
+        var Slides = 2;
+    }
+
 	 $('.doctors-slider').slick({
   dots: false,
-  infinite: false,
+  infinite: true,
   speed: 300,
-  slidesToShow: 5,
+  slidesToShow: Slides,
   slidesToScroll: 1,
+  rows:Rows,
   autoplay: false,
   autoplaySpeed: 2000,
   arrows: true,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        infinite: true,
-        dots: true
-      }
-    },
-    {
-      breakpoint:991,
-      settings: {
-        slidesToShow: 2,
-        slidesToScroll: 1
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    }
-    // You can unslick at a given breakpoint now by adding:
-    // settings: "unslick"
-    // instead of a settings object
-  ]
 });
-	
+
 	</script>
-    
+
     <script type="text/javascript">
-	
+
 	 $('.testimonial-slider-box').slick({
   dots: false,
   arrows: true,
@@ -91,9 +65,5 @@
   slidesToShow: 1,
   adaptiveHeight: true
 });
-	
+
 	</script>
-
-
-
-

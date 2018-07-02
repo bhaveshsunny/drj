@@ -262,7 +262,6 @@ function gtag_report_conversion(url) {
                             <li>Carpal Tunnel / Suprascapular / Lat. Cut N of Thigh / Inguinal Nerves Blocks</li>
                             <li>SI Joint Block & RF Denervation</li>
                             <li>Shoulder, Knee & Joint Blocks</li>
-                            <li>Botox Injection, Ozone Prolotherapy</li>
                             <li>Paravertebral & Psoas Compartment Block</li>
                             <li>Piriformis & other Somatic Musculoskeletal Injections & other procedures of your choice / interest</li>
 

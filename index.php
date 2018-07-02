@@ -17,8 +17,7 @@ Top Orthopaedic Surgeon,Best Orthopaedic Hospital,Best Orthopaedic Clinic Near t
 <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:400,800italic,800,700italic,700,600italic,600,400italic,300italic,300%7CLibre+Baskerville:400,400italic,700%7CLato:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
 <!-- Bootstrap -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="slick/slick.css">
 <link rel="stylesheet" type="text/css" href="slick/slick-theme.css">
 
@@ -72,7 +71,8 @@ function gtag_report_conversion(url) {
         <!-- everything on it will show up within the popup so you can add more things not just an image -->
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <script>
 //with this first line we're saying: "when the page loads (document is ready) run the following script"
@@ -111,7 +111,6 @@ function gtag_report_conversion(url) {
   <!--header Section End Here -->
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700&subset=latin-ext,vietnamese,latin,cyrillic" rel="stylesheet" type="text/css" />
     <style>
         /* jssor slider loading skin spin css */
@@ -436,64 +435,6 @@ function gtag_report_conversion(url) {
 
   <!--content Section Start Here -->
   <div id="content">
-    <div class="yus">
-        <div class="container">
-          <div class="yus_wrapper">
-            <div class="yus_head">WHY CHOOSE US?</div>
-            <div class="yus_cards">
-                <div class="yus_card">
-                  <div class="card">
-                    <div class="side">
-                      <h2 class="yus_head_text">45 years Legacy of Trust</h2>
-                      <div class="yus_text">
-                        Dr. Jawad’s is from family of experienced and successful doctors in their fields and have built the rich legacy of 45 years by gaining the love and trust of their patients with rare distinction of performing various critical surgeries in hospital with a very high rate of success.
-Dr. Jawad is now taking ahead the rich legacy of his family with complete dedication, zeal and enthusiasm to provide International standard  medical care aiming to close the gap between Standards of Orthopedics in India and rest of the world, In order to do so ,He is trying to Transport all the advantages of latest orthopedics treatments from most of the advanced countries of world to the people of India .This ensures that all  our patients receive health care that is at par with what is available in western world at affordable prices.Dr. Jawad achieved many prestigious national and international awards and is also a active member of many international and national organizations.
-                      </div>
-                    </div>
-                    <div class="side back">
-                      back
-                    </div>
-                  </div>
-                </div>
-                <div class="yus_card">
-                  <div class="card">
-                    <div class="side">
-                      <h2 class="yus_head_text">Clinical Excellence</h2>
-                      <div class="yus_text">
-                        Dr. Jawad himself has 18yrs Expertise – Both in Operative & Non operative procedures He has done Masters that is M.S (Orthopedics) from Osmania University ,He was awarded best outgoing postgraduate with highest marks in Telengana state, Hyderabad and M.Ch Orthopedics from Usaim, Seychelles. He has done a fellowship in arthroplasty in world renowned orthopedic institute in Munich Germany where he has worked with international experts in joint replacements surgeries. He has undergone extensive training in trauma & orthopedics during his post-graduation. He has further trained in complicated fractures, joint replacements, spine surgery & arthroscopic ACL/PCL reconstruction, meniscal repair surgeries at prestigious Osmania General Government Hospital which is a tertiary care referral center in Andhra Pradesh & Telangana State during his senior residency. He has undergone advanced training in joint replacements as part of his fellowship program at prestigious Institutes of Lilavati, Beach Candy Hospital Mumbai & Max Hospital Delhi with International experts in the above fields.
-                      </div>
-                    </div>
-                    <div class="side back">
-                      back
-                    </div>
-                  </div>
-                </div>
-                <div class="yus_card">
-                  <div class="card">
-                    <div class="side">
-                      <h2 class="yus_head_text">Technology</h2>
-                      <div class="yus_text">
-                        German Precision Technology, Technology used for easy mobility, post operation. Walk within 4 hours of operation after joint replacement surgery. Our Operating theaters are outfitted with state-of-the-art monitoring equipment, tools for minimally-invasive surgery, rapid closure devices to avoid bleeding complications and lasers for making precision incisions
-                        <ul>
-                            <li>Research collaboration with Germany</li>
-                            <li>We follow international guidelines for OT sterility. We have laminar air OT. We use disposable accessories in Operation Theatres.</li>
-                            <li>Robotic and Computer Navigation Joint Replacement</li>
-                            <li>Totally painless and safe procedure</li>
-                            <li>Imported Range of Implants:Johnson & Johnson, Depuy, Smith & Nephew, Zimmer, Exactech, Oxinium Etc</li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div class="side back">
-                      back
-                    </div>
-                  </div>
-                </div>
-            </div>
-          </div>
-
-        </div>
-
-    </div>
     <!--Info Section Start Here -->
     <div class="info-container">
       <div class="container">
@@ -502,54 +443,38 @@ Dr. Jawad is now taking ahead the rich legacy of his family with complete dedica
         <div class="col-md-6 grid clearfix">
 
 
-    <div class="h-f">
-					<figure class="effect-jazz">
-						<img src="images/03.jpg" alt="">
-						<figcaption>
+        <div class="h-f">
+          <figure class="effect-jazz">
+            <img src="images/03.jpg" alt="">
+            <figcaption>
 
-						</figcaption>
-					</figure>
+            </figcaption>
+          </figure>
+         </div>
 
-				 </div>
-
-    <div class="h-f">
-					<figure class="effect-jazz">
-						<img src="images/about-img-2.png" alt="">
-						<figcaption>
-						</figcaption>
-					</figure>
-
-				 </div>
+         <div class="h-f">
+          <figure class="effect-jazz">
+            <img src="images/about-img-2.png" alt="">
+            <figcaption>
+            </figcaption>
+          </figure>
+         </div>
 
 
-    <div class="h-f">
+         <div class="h-f">
+            <a href="#" class="thumbnail" style="padding:0;">
+                <iframe  src="https://www.youtube.com/embed/utn6Lq36sYw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" style="max-width:100%; width:258px;" allowfullscreen></iframe>
+            </a>
+         </div>
 
-						<!--<img src="images/about-img-3.png" alt="">-->
-						<a href="#" class="thumbnail" style="padding:0;">
+         <div class="h-f">
+          <figure class="effect-jazz">
+            <img src="images/about-img-4.jpg" alt="">
+            <figcaption>
+            </figcaption>
+          </figure>
 
-
-
-
-
-
-                        <iframe width="240" height="258" src="https://www.youtube.com/embed/utn6Lq36sYw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" style="max-width:100%; width:258px;" allowfullscreen></iframe>
-
-
-                        </a>
-                       <!--<iframe width="240" height="258" src="https://www.youtube.com/embed/1oIKkzudPHw?autoplay=1;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
-
-
-
-				 </div>
-
-    <div class="h-f">
-					<figure class="effect-jazz">
-						<img src="images/about-img-4.jpg" alt="">
-						<figcaption>
-						</figcaption>
-					</figure>
-
-				 </div>
+         </div>
 
 
 
@@ -561,81 +486,21 @@ Dr. Jawad is now taking ahead the rich legacy of his family with complete dedica
               <h2>WHO WE ARE? <i></i></h2>
               <p style="text-transform:uppercase"><strong>We are the pioneer in popularizing new standards, bringing the beam of hope in our patients with a 45 years legacy in orthopedic.</strong></p>
             </header>
-			  <p style="text-align: justify;"><strong><a href="about.php" style="color:#000;">
-         Dr. Mir Jawad Zar Khan</a></strong> -  Is a senior orthopedic surgeon trained at germany and expert in trauma, knee & joint replacement and spine surgeon. He has completed his Masters of Science M.S  (Orthopaedics) Gold Medalist from Osmania University, Hyderabad and M.Ch Orthopedics from Usaim, Seychelles.  He has a record  breaking, 18 years of experience by handling large number of complex trauma surgeries & 10000+ joint replacements, Arthroscopic reconstructions & spine  surgeries.<a href="directors-profile.php" style="color: #ffffff;
-    cursor: pointer;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 15px;
-    margin: 4px auto;
-    text-align: center;
-    padding: 9px 12px;
-    white-space: nowrap;
-    background: #000;
-    display: block;
-    width: 106px;
-    border-radius: 5px;
-    text-decoration: none;
-    text-transform: uppercase;">READ MORE</a>
-           </p>
-            <ul class="our-quality clearfix">
-              <li> <i class="check-svg ">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" class="svg replaced-svg">
-                  <polyline class="stroke" fill="none" stroke="#A7A6A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="  9.5,14.643 12.071,17.215 18.5,10.786 "></polyline>
-                  <g>
-                    <path class="fill" fill="#A7A6A6" d="M14,2c6.617,0,12,5.383,12,12c0,6.617-5.383,12-12,12C7.383,26,2,20.617,2,14C2,7.383,7.383,2,14,2 M14,0   C6.268,0,0,6.268,0,14c0,7.732,6.268,14,14,14c7.732,0,14-6.268,14-14C28,6.268,21.732,0,14,0L14,0z"></path>
-                  </g>
-                </svg>
-                </i>
-                <strong>
-                <div class="info-icon clearfix"><i class="fa fa-user" aria-hidden="true"></i></div>
-                <div class="clr"></div>
-
-
-                <span>Clinical </span>Excellence</strong> </li>
-              <li> <i class="check-svg">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" class="svg replaced-svg">
-                  <polyline class="stroke" fill="none" stroke="#A7A6A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="  9.5,14.643 12.071,17.215 18.5,10.786 "></polyline>
-                  <g>
-                    <path class="fill" fill="#A7A6A6" d="M14,2c6.617,0,12,5.383,12,12c0,6.617-5.383,12-12,12C7.383,26,2,20.617,2,14C2,7.383,7.383,2,14,2 M14,0   C6.268,0,0,6.268,0,14c0,7.732,6.268,14,14,14c7.732,0,14-6.268,14-14C28,6.268,21.732,0,14,0L14,0z"></path>
-                  </g>
-                </svg>
-                </i>
-
-
-                <strong>
-                <div class="info-icon clearfix"><i class="fa fa-cog" aria-hidden="true"></i></div>
-                <div class="clr"></div>
-
-
-
-                <span> Facilities</span> &amp; Infrastructure</strong> </li>
-              <li> <i class="check-svg">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" class="svg replaced-svg">
-                  <polyline class="stroke" fill="none" stroke="#A7A6A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="  9.5,14.643 12.071,17.215 18.5,10.786 "></polyline>
-                  <g>
-                    <path class="fill" fill="#A7A6A6" d="M14,2c6.617,0,12,5.383,12,12c0,6.617-5.383,12-12,12C7.383,26,2,20.617,2,14C2,7.383,7.383,2,14,2 M14,0   C6.268,0,0,6.268,0,14c0,7.732,6.268,14,14,14c7.732,0,14-6.268,14-14C28,6.268,21.732,0,14,0L14,0z"></path>
-                  </g>
-                </svg>
-                </i>
-                <strong>
-                <div class="info-icon clearfix"><i class="fa fa-heartbeat" aria-hidden="true"></i></div>
-                <div class="clr"></div>
-
-
-                <span>Health</span> Plans</strong> </li>
-            </ul>
-          </div>
-
-
-
-
-
+        <p style="text-align: justify;"><strong><a href="about.php" style="color:#000;">
+         Dr. Mir Jawad Zar Khan</a></strong> -  Is a senior orthopedic surgeon trained at germany and expert in trauma, knee & joint replacement and spine surgeon. He has completed his Masters of Science M.S  (Orthopaedics) Gold Medalist from Osmania University, Hyderabad and M.Ch Orthopedics from Usaim, Seychelles.  He has a record  breaking, 18 years of experience by handling large number of complex trauma surgeries & 10000+ joint replacements, Arthroscopic reconstructions & spine  surgeries.
+       </p>
+         <a href="directors-profile.php" style='color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;'>READ MORE</a>
+         <h4>DEDICATED TEAM OF EXPERIENCED DOCTORS <i></i></h4>
+         <br>
+           <p> Dr. Jawad's team comprises of dedicated doctors, operation theater staff, physiotherapists, Anesthetists & support staff who work in tandem & whose respective services complement each other for the total recovery & satisfaction of the patients.Dr Jawad and his Team are regarded as Visionary advocates for their innovative and modern approach in informing, empowering and treating patients and providing them latest and most advanced treatment in India.</p>
+           <br>
+           <h4>PANEL OF GERMAN DOCTORS<i></i></h4>
+           <a href="international-research-collaboration.php" style="color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;">DETAILS</a>
+         </div>
         </div>
       </div>
     </div>
     <!--Info Section End Here -->
-
     <!---sec start-->
        <div class="container-fluid" style="background-color:#E9E9E9; margin-bottom:0px ">
 
@@ -651,70 +516,70 @@ Dr. Jawad is now taking ahead the rich legacy of his family with complete dedica
 
         <div class="container">
 							<div class="section-wrap">
-        <div class="row">
+        <div class="row exp">
 		<a href="hip-replacement.php">
-          <div class="col-sm-6 col-md-3 expertise-box clearfix">
+          <div class="col-sm-6 col-md-3 clearfix">
             <div class="service-box style-1" style="background-image:url(images/1.jpg);">
               <div class="service-box-overlay">
               <center><img src="images/expertise-1.png" alt="" class="img-responsive" style="margin-top:27px;"></center>
               </div>
 
               <div class="service-box-content">
-                <h5 style="color: #FFF;">Hip <br>Replacement</h5>
+                <div style="color: #FFF;">Hip <br>Replacement</div>
                 </div>
               <!-- service-box-content -->
             </div>
           </div>
 		  </a>
 		  <a href="knee-joint-replacement.php">
-          <div class="col-sm-6 col-md-3 expertise-box clearfix">
+          <div class="col-sm-6 col-md-3 clearfix">
             <div class="service-box style-1" style="background-image:url(images/2.jpg);">
               <div class="service-box-overlay">
               	 <center><img src="images/expertise-2.png" alt="" class="img-responsive" style="margin-top:27px;"></center>
               </div>
 
               <div class="service-box-content">
-                <h5 style="color: #FFF;">Knee<br>Replacement</h5>
+                <div style="color: #FFF;">Knee<br>Replacement</div>
              </div>
               <!-- service-box-content -->
             </div>
           </div>
 		  </a>
 		  <a href="spine-surgery.php">
-          <div class="col-sm-6 col-md-3 expertise-box clearfix">
+          <div class="col-sm-6 col-md-3 clearfix">
             <div class="service-box style-1" style="background-image:url(images/3.jpg);">
               <div class="service-box-overlay">
                <center><img src="images/expertise-3.png" alt="" class="img-responsive" style="margin-top:27px;"></center>
               	</div>
 
               <div class="service-box-content">
-                <h5 style="color: #FFF;">Spine &<br> Neurology</h5>
+                <div style="color: #FFF;">Spine &<br> Neurology</div>
                </div>
               <!-- service-box-content -->
             </div>
           </div>
 		  </a>
 		  <a href="trauma-fracture.php">
-          <div class="col-sm-6 col-md-3 expertise-box clearfix">
+          <div class="col-sm-6 col-md-3 clearfix">
             <div class="service-box style-1" style="background-image:url(images/4.jpg);">
               <div class="service-box-overlay">
               	 <center><img src="images/expertise-4.png" alt="" class="img-responsive" style="margin-top:27px;"></center>
               </div>
               <div class="service-box-content">
-                <h5 style="color: #FFF;">Accident &<br> Fracture</h5>
+                <div style="color: #FFF;">Accident &<br> Fracture</div>
                  </div>
               <!-- service-box-content -->
             </div>
           </div>
 		  </a>
 		  <a href="rheumatology-and-arthritis.php">
-          <div class="col-sm-6 col-md-3 expertise-box clearfix">
+          <div class="col-sm-6 col-md-3 clearfix">
             <div class="service-box style-1" style="background-image:url(images/2.jpg);">
               <div class="service-box-overlay">
               	 <center><img src="images/hand.png" alt="" class="img-responsive" style="margin-top:27px;"></center>
               </div>
               <div class="service-box-content">
-                <h5 style="color: #FFF;">RHEUMATOLOGY & <br>Arthritis</h5>
+                <div style="color: #FFF;">RHEUMATOLOGY<br>&Arthritis</div>
                  </div>
               <!-- service-box-content -->
             </div>
@@ -723,13 +588,13 @@ Dr. Jawad is now taking ahead the rich legacy of his family with complete dedica
 
 
           <a href="alternative-treatments.php">
-          <div class="col-sm-6 col-md-3 expertise-box clearfix">
+          <div class="col-sm-6 col-md-3 clearfix">
             <div class="service-box style-1" style="background-image:url(images/2.jpg);">
               <div class="service-box-overlay">
               	 <center><img src="images/hand.png" alt="" class="img-responsive" style="margin-top:27px;"></center>
               </div>
               <div class="service-box-content">
-                <h5 style="color: #FFF;">SPECIAL <br>PROCEDURES</h5>
+                <div style="color: #FFF;">SPECIAL <br>PROCEDURES</div>
                  </div>
               <!-- service-box-content -->
             </div>
@@ -746,6 +611,104 @@ Dr. Jawad is now taking ahead the rich legacy of his family with complete dedica
 
 </div>
     <!---sec end-->
+
+    <div class="yus">
+        <div class="container">
+          <div class="yus_wrapper">
+            <div class="yus_head">WHY CHOOSE US?</div>
+            <div class="yus_cards">
+                <div class="yus_card">
+                  <div class="card">
+                    <div class="side">
+                      <div class="yus_icon">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                      </div>
+                      <h2 class="yus_head_text">Clinical Excellence</h2>
+                      <div class="yus_text">
+                        Dr.Mir Jawad Zar Khan has 18yrs Expertise. He has done Masters that is M.S (Orthopedics) from Osmania University ,He was awarded best outgoing postgraduate with highest marks in Telengana state, Hyderabad and M.Ch Orthopedics from Usaim, Seychelles. He has done a fellowship in arthroplasty in world renowned orthopedic institute in Munich Germany where he has worked with international experts in joint replacements surgeries. He has undergone extensive training in trauma & orthopedics during his post-graduation. He has further trained in complicated fractures, joint replacements, spine surgery & arthroscopic ACL/PCL reconstruction, meniscal repair surgeries at prestigious Osmania General Government Hospital which is a tertiary care referral center in Andhra Pradesh & Telangana State during his senior residency. He has undergone advanced training in joint replacements as part of his fellowship program at prestigious Institutes of Lilavati, Beach Candy Hospital Mumbai & Max Hospital Delhi with International experts in the above fields.Dr Jawad’s several years expertise with world-renowned surgeons in Munich, Germany, has performed enormous  successful joint replacements in India and abroad.
+ <a href="directors-profile.php" style='color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;'>READ MORE</a>
+                      </div>
+                    </div>
+                    <div class="side back">
+                      <div class="card_image_holder">
+                          <div class="card_image">
+                            <img src="images/doctors.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                          <div class="card_image">
+                            <img src="images/doctors-2.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="yus_card">
+                  <div class="card">
+                    <div class="side">
+                      <div class="yus_icon">
+                        <i class="fa fa-cogs" aria-hidden="true"></i>
+                      </div>
+                      <h2 class="yus_head_text">Technology</h2>
+                      <div class="yus_text">
+                        German Precision Technology, Technology used for easy mobility, post operation. Walk within 4 hours of operation after joint replacement surgery. Our Operating theaters are outfitted with state-of-the-art monitoring equipment, tools for minimally-invasive surgery, rapid closure devices to avoid bleeding complications and lasers for making precision incisions
+                        <ul>
+                            <li>Research collaboration with Germany</li>
+                            <li>We follow international guidelines for OT sterility. We have laminar air OT. We use disposable accessories in Operation Theatres.</li>
+                            <li>Robotic and Computer Navigation Joint Replacement</li>
+                            <li>Totally painless and safe procedure</li>
+                            <li>Imported Range of Implants:Johnson & Johnson, Depuy, Smith & Nephew, Zimmer, Exactech, Oxinium Etc</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="side back">
+                      <div class="card_image_holder">
+                          <div class="card_image">
+                            <img src="images/tec1.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                          <div class="card_image">
+                            <img src="images/tec2.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                          <div class="card_image">
+                            <img src="images/trubeam.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                          <div class="card_image">
+                            <img src="images/ct-scanning-machine.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="yus_card">
+                  <div class="card">
+                    <div class="side">
+                      <div class="yus_icon">
+                        <i class="fa fa-handshake-o" aria-hidden="true"></i>
+                      </div>
+                      <h2 class="yus_head_text">45 years Legacy of Trust</h2>
+                      <div class="yus_text">
+                        Dr. Jawad’s is from family of experienced and successful doctors in their fields and have built the rich legacy of 45 years by gaining the love and trust of their patients with rare distinction of performing various critical surgeries in hospital with a very high rate of success.
+Dr. Jawad is now taking ahead the rich legacy of his family with complete dedication, zeal and enthusiasm to provide International standard  medical care aiming to close the gap between Standards of Orthopedics in India and rest of the world, In order to do so ,He is trying to Transport all the advantages of latest orthopedics treatments from most of the advanced countries of world to the people of India .This ensures that all  our patients receive health care that is at par with what is available in western world at affordable prices.Dr. Jawad achieved many prestigious national and international awards and is also a active member of many international and national organizations
+                      </div>
+                    </div>
+                    <div class="side back">
+                      <div class="card_image_holder">
+                          <div class="card_image">
+                            <img src="images/competentdoctor.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                          <div class="card_image">
+                            <img src="images/g2.jpg" alt="Smiley face" style="  height: 100%;width: 66%;border-radius: 50%;">
+                          </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+
+        </div>
+
+    </div>
+
+
     <!--Service Section Start Here -->
     <div class="service-container">
       <div class="container">
@@ -759,51 +722,50 @@ Dr. Jawad is now taking ahead the rich legacy of his family with complete dedica
             <div class="our-service clearfix">
 
              <div class="doctors-slider single-slider">
-
-
-             <!-- <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
-                    <figure class="fade-effect"> <img draggable="false" alt="" src="images/DR-K-AMANULLAH-KHAN.jpg"> </figure>
-                    <strong> <i></i>DR.K.AMANULLAH KHAN <span>MBBS., MNAMS(ORTHO)
-PG DIPLOMA IN DIABETOLOGY
-ORTHOPEDIC SURGEON & DIABETOLOGIST
- </span> </strong> </a> </div>
-              </div>-->
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/03.jpg"> </figure>
                     <strong> <i></i>Dr. Mir Jawad Zar Khan<span>MBBS, MS - Orthopaedics</span> </strong></a> </div>
               </div>
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/image-3.jpg"> </figure>
                     <strong> <i></i>Dr. T. Anil Kumar <span>Consultant Neuro Surgeon</span> </strong> </a> </div>
               </div>
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/image-2.jpg"> </figure>
                     <strong> <i></i>Dr. Pasham Indrasen Reddy<span> MBBS Dip Diabetis (NIMS) FIDM(CMC) </span> </strong> </a> </div>
               </div>
+
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
+                    <figure class="fade-effect"> <img draggable="false" alt="" src="images/drsuresh.jpeg"> </figure>
+                    <strong> <i></i>Dr. Suresh<span>MDS, BDS<br/>
+                    Maxillofacial Surgeon
+                    </span> </strong> </a> </div>
+              </div>
+
+              <div class="doctors-box">
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/image-4.jpg"> </figure>
                     <strong> <i></i>Dr. Gita Krishna Puppala<span>MDRD(Radiodiagnosis)</span> </strong> </a> </div>
               </div>
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/image-5.jpg"> </figure>
                     <strong> <i></i>Dr. Mirza Mohammed Baig<span>MBBS,Dip Card, Consultant Cardiologist</span> </strong> </a> </div>
               </div>
 
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/Dr-Arjuman-Sultana.jpg"> </figure>
                     <strong> <i></i>Dr Arjuman Sultana<span>MBBS, DGO(MRCOG)
 CONDULTANT OBSTETRICIAN & GYNAECOLOGIST
 </span> </strong></a> </div>
               </div>
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/DR-AYESHA-FARHEEN.jpg"> </figure>
                     <strong> <i></i>DR. AYESHA FARHEEN <span>MBBS., DGO.,DNB.,(OBS&GYN)
 CONSULTANT OBESTETRICIAN & GYNAECOLOGIST
@@ -812,20 +774,22 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
               </div>
 
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/Dr-PACHARLA-INDIRA.jpg"> </figure>
                     <strong> <i></i>Dr PACHARLA INDIRA<span>Anaesthetic</span> </strong> </a> </div>
               </div>
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/suneel.png"> </figure>
                     <strong> <i></i>Dr. R. Suneel<span>MBBS, MS (Orth.), FHS<br/>
                     Consultant Hand Surgeon
                     </span> </strong> </a> </div>
               </div>
 
+
+
               <div class="doctors-box">
-              <div class="zoom"> <a href="#"> <em class="fa fa-caret-up"></em>
+              <div class="zoom"> <a href="#" class="docbox">
                     <figure class="fade-effect"> <img draggable="false" alt="" src="images/dr-uma-rani.jpg"> </figure>
                     <strong> <i></i>Dr Uma Rani<span>MBBS,DCH Specialist - Pediatrician<br/>
                     Consultant Hand Surgeon
@@ -835,14 +799,6 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
 
              </div>
 
-
-
-
-
-
-
-
-
           </div>
 		    </div>
 
@@ -851,8 +807,70 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
           </div>
 		    </div>
 
+<!-- <div class="container-fluid">
+  <div class="photocards">
+    <div class="leftbin"></div>
+    <div class=""></div>
+    <div class="rightbin"></div>
+  </div>
 
+</div> -->
+<!-- <div class="container">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
 
+    <div class="carousel-inner" role="listbox">
+
+      <div class="item active">
+        <img style="width:100%;" src="https://www.caranddriver.com/images/media/671589/2017-10best-cars-the-best-cars-for-sale-in-america-today-feature-car-and-driver-photo-672522-s-original.jpg" alt="Chania" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Chania</h3>
+          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img style="width:100%;" src="https://www.caranddriver.com/images/media/671589/2017-10best-cars-the-best-cars-for-sale-in-america-today-feature-car-and-driver-photo-672522-s-original.jpg" alt="Chania" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Chania</h3>
+          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img style="width:100%;" src="https://www.caranddriver.com/images/media/671589/2017-10best-cars-the-best-cars-for-sale-in-america-today-feature-car-and-driver-photo-672522-s-original.jpg" alt="Flower" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Flowers</h3>
+          <p>Beautiful flowers in Kolymbari, Crete.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img style="width:100%;"src="https://www.caranddriver.com/images/media/671589/2017-10best-cars-the-best-cars-for-sale-in-america-today-feature-car-and-driver-photo-672522-s-original.jpg" alt="Flower" width="460" height="345">
+        <div class="carousel-caption">
+          <h3>Flowers</h3>
+          <p>Beautiful flowers in Kolymbari, Crete.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="fa fa-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="fa fa-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div> -->
 <!--
 		  <div class="service-container">
       <div class="container">
@@ -910,10 +928,9 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
 
 
 
-    <!--testimonial-container Start Here -->
-    <div class="testimonial-container">
+    <!-- testimonial-container Start Here -->
+    <!-- <div class="testimonial-container">
       <div class="container">
-        <!--<i class="corve"><img class="svg" alt="" src="svg/corve.svg"></i>-->
         <div class="row">
           <div class="col-xs-12 col-sm-6 tag-bg animate-effect">
             <div class="customer-says">
@@ -930,7 +947,7 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
                         <blockquote> <i class="fa fa-quote-right"></i>
 
                            <p> The philosophy of the clinic is to constantly strive towards the excellence. I just wanted to let you know that I was absolutely impressed with my visit to the hospital in April – your service was amazing and the facilities were first class. You should be very proud of what you offer to your customers. </p>
-                          <footer> Mrs. Santhosh </footer>
+                          <footer> Mr. Santhosh </footer>
                         </blockquote>
                       </li>
                       <li style="width: 555px; float: left; display: block;">
@@ -948,13 +965,13 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
                       <li style="width: 555px; float: left; display: block;">
                         <blockquote> <i class="fa fa-quote-right"></i>
                           <p> The doctor guided in terms of the course of medication and physiotherapy exercises. When I was suggested surgery earlier. For the time being i do not require surgery immediately.</p>
-                          <footer> Mrs. Srinivas</footer>
+                          <footer> Mr. Srinivas</footer>
                         </blockquote>
                       </li>
                       <li class="flex-active-slide" style="width: 555px; float: left; display: block;">
                         <blockquote> <i class="fa fa-quote-right"></i>
                           <p>Life giver to many people like me who lost hopes to lead quality life. But post surgery of knee replacement he gave the same life...</p>
-                          <footer>Mrs. Rajesh</footer>
+                          <footer>Mr. Rajesh</footer>
                         </blockquote>
                       </li>
 
@@ -970,12 +987,11 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
                 <div class="flexsilder" id="testimonial-carousel">
                   <div class="flex-viewport" style="overflow: hidden; position: relative;">
                     <ul class="slides" style="width: 1200%; transform: translate3d(-136px, 0px, 0px); transition-duration: 0s;">
-                      <li style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t1.png"></a> </li>
+                      <li class="flex-active-slide" style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t1.png"></a> </li>
                       <li style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t2.png"></a> </li>
                       <li style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t3.png"></a> </li>
                       <li style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t4.png"></a> </li>
                       <li style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t5.png"></a> </li>
-                      <li class="flex-active-slide" style="width: 63px; float: left; display: block;"> <a href="#"><img draggable="false" alt="" src="images/t1.png"></a> </li>
                     </ul>
                   </div>
                   <ul class="flex-direction-nav">
@@ -989,10 +1005,74 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!--testimonial-container End Here -->
+    <div class="container-fluid" style="display: flex;justify-content: center;flex-direction: column;">
+      <div class="col-xs-12 col-sm-12 tag-bg animate-effect">
+        <div class="customer-says">
+          <h2><span>WORDS BY</span> OUR PATIENTS </h2>
+          <strong>We are with our patients across India</strong> </div>
+      </div>
+      <div class="tbox">
+        <div class="titem">
+          <div class="timg">
+            <img draggable="false" alt="" src="images/tb7.png"></a>
+          </div>
+          <div class="tquote">
+            Patient with Gross Knee deformity was operated Joint Replacement Surgery by Dr Mir Jawad Zar Khan achieved excellent results ,you can see post and pre surgery results in his own testimonial …
+<a href="https://www.youtube.com/watch?v=mOu8-OnbykI&amp=&t=6s" target="_blank" style='color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;'>READ MORE</a>
+          </div>
+        </div>
+        <div class="titem">
+          <div class="timg">
+            <img draggable="false" alt="" src="images/tb5.png"></a>
+          </div>
+          <div class="tquote">
+            Mr Vishwanatha Rao with severe Osteoarthritis since long time and unable to walk ,underwent Total knee replacement surgery by Dr Mr Jawad sir , .patient testimonials …
+<a href="https://www.youtube.com/watch?v=fKBcLwUI2nI&amp;t=64s" target="_blank" style='color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;'>READ MORE</a>
+          </div>
+        </div>
 
+      </div>
+      <div class="tbox">
+        <div class="titem">
+          <div class="timg">
+            <img draggable="false" alt="" src="images/tb6.png"></a>
+          </div>
+          <div class="tquote">
+            Patient was operated for Total Hip Replacement By Dr Mir Jawad sir painless patients own words…
+<a href="https://www.youtube.com/watch?v=Ub_yEqGeuuI&amp=&t=13s" target="_blank" style='color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;'>READ MORE</a>
+          </div>
+        </div>
+        <div class="titem">
+          <div class="timg">
+            <img draggable="false" alt="" src="images/tb4.png"></a>
+          </div>
+          <div class="tquote">
+            Multiple fractures in upper limb surgery by Dr.Mir Jawad Zar Khan where many hospitals didn’t take up patients own words…
+            <a href="https://www.youtube.com/watch?v=GNg5CJvkT5o&amp=&t=2s" target="_blank" style='color: #ffffff;cursor: pointer; font-weight: 400; font-size: 13px; line-height: 15px; margin: 4px auto; text-align: center; padding: 9px 12px; white-space: nowrap; background: #000; display: block; width: 106px; border-radius: 5px; text-decoration: none; text-transform: uppercase;'>READ MORE</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!---photogallery sec start--->
+	  <div class="container gallery-box clearfix" style="margin-bottom: 25px;">
 
+	   <h2 style="font-size: 36px;color: #000;font-weight: 900;letter-spacing: 3px; padding-bottom: 20px; padding-top:20px; text-transform:uppercase"><center>Awards, News & Media</center></h2>
+     <div style="margin-bottom: 25px; display: flex;justify-content: center;   flex-direction: row; flex-wrap: wrap;">
+		  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/profile-img-7.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+		  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-22.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+			  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-333.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+<div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/zakir.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+        <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-5.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+        <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/hans-news.PNG" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+        <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/hans-big-1.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+			  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-44.png" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+		    <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-66.png" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
+      </div>
+		  </div>
+
+   <!---photogallery sec end --->
 
     <!--partner-container Start Here -->
      <div class="our-partners">
@@ -1003,7 +1083,35 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
                 <div class="testi_section clearfix">
 
  <div class="row">
+   <h3 style="margin-left:20px!important;color:red!important;">special procedure videos</h3><br>
 
+   <!--animation-->
+   <div class="col-md-3 inner-page-video-box clearfix">
+    <div class="viceo_box">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-xYbTYgWWfw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+   </div>
+
+   <div class="col-md-3 inner-page-video-box clearfix">
+    <div class="viceo_box">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vp0F7qzdtsc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+   </div>
+
+   <div class="col-md-3 inner-page-video-box clearfix">
+    <div class="viceo_box">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/l_SC7-4gJeg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+   </div>
+
+   <div class="col-md-3 inner-page-video-box clearfix">
+    <div class="viceo_box">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/oSFb44UMZCY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+    </div>
+   </div>
+
+
+   <h3 style="margin-left:20px!important;color:red!important;">Patients Testimonials</h3><br>
   <div class="col-md-6 inner-page-video-box clearfix">
     <div class="viceo_box">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mFFeUy9xhiI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
@@ -1117,42 +1225,16 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
     </div>
    </div>
 
-
-
-
-   <h3 style="margin-left:20px!important;color:red!important;">special procedure videos</h3><br>
-
-   <!--animation-->
-   <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-xYbTYgWWfw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-   </div>
-
-   <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vp0F7qzdtsc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-   </div>
-
-   <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/l_SC7-4gJeg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-   </div>
-
-   <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/oSFb44UMZCY" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-   </div>
-
  </div>
 
 
 </div>
 
+<a class="btn btn-primary btn-lg custom-btn web-btn" href="img/Brochure-of-DCP-Program1.pdf" download="Brochure.pdf">Check النسخة العربية (Arabic Version) For More details of Dr. Mir Jawad Jar Khan</a>
 
+<a class="btn btn-primary btn-lg custom-btn media-btn" href="img/Brochure-of-DCP-Program1.pdf" download="Brochure.pdf">Check النسخة العربية (Arabic Version)</a>
+
+</p>
 
 			</div><!---col-md-12 --->
         </div>
@@ -1162,33 +1244,6 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
 
 
 
-    <!---photogallery sec start--->
-	  <div class="container gallery-box clearfix" style="margin-bottom: 25px">
-
-	   <h2 style="font-size: 36px;
-    color: #000;
-    font-weight: 900;
-    letter-spacing: 3px;
-    padding-bottom: 20px; padding-top:20px;
-				  text-transform:uppercase"><center>Awards, News & Media</center></h2>
-
-		  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/profile-img-7.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-		  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-22.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-			  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-333.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-			  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-5.jpg" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-        <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/hans-news.PNG" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-			  <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-44.png" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-		    <div class="col-md-4 gallery-box-image"><div class="overlay gallery-hover"><a href="#"><img src="images/news-66.png" alt="" class="img-responsive" id="awards-sec-img"></a></div></div>
-		  </div>
-
-   <!---photogallery sec end --->
-
-  <p align="center"><strong></strong>
-  <a class="btn btn-primary btn-lg custom-btn web-btn" href="img/Brochure-of-DCP-Program1.pdf" download="Brochure.pdf">Check النسخة العربية (Arabic Version) For More details of Dr. Mir Jawad Jar Khan</a>
-
-  <a class="btn btn-primary btn-lg custom-btn media-btn" href="img/Brochure-of-DCP-Program1.pdf" download="Brochure.pdf">Check النسخة العربية (Arabic Version)</a>
-
-  </p>
 
 
     <!--quote-container Start Here -->
@@ -1336,7 +1391,39 @@ ASST.PROFESSOR. GOVT .MATERNITY HOSPITAL
 
 
   <div id="side-tabs">
-  <a href="book-appointment.php">Book an Appointment</a></div>
+    <div class="side-button">
+      <a href="book-appointment.php">
+      <div>A</div>
+      <div>P</div>
+      <div>P</div>
+      <div>O</div>
+      <div>I</div>
+      <div>N</div>
+      <div>T</div>
+      <div>M</div>
+      <div>E</div>
+      <div>N</div>
+      <div>T</div>
+      </a>
+    </div>
+    <div class="side-button">
+      <a href="https://api.whatsapp.com/send?phone=919246599936">
+      <div><i class="fa fa-whatsapp"></i></div>
+      <div>W</div>
+      <div>H</div>
+      <div>A</div>
+      <div>T</div>
+      <div>T</div>
+      <div>S</div>
+      <div>A</div>
+      <div>P</div>
+      <div>P</div>
+      <div> </div>
+      <div>U</div>
+      <div>S</div>
+      </a>
+    </div>
+</div>
 
   <script>
   window.addEventListener('load',function(){

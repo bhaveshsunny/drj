@@ -146,6 +146,15 @@ function gtag_report_conversion(url) {
  <div class="row">
 
  <h5 style="margin-left:20px!important;color:red!important;">Out of our many knee replacement success stories here are a few</h5><br><br>
+ 
+ <div class="col-md-3 inner-page-video-box clearfix">
+	<div class="viceo_box">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/mFFeUy9xhiI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+	<p>
+ Female Patient 75years suffering from severe osteoarthritis both knees under went both knee replacement at same time.
+	</p>
+ </div>
 
   <div class="col-md-3 inner-page-video-box clearfix">
     <div class="viceo_box">
@@ -194,22 +203,8 @@ function gtag_report_conversion(url) {
     Patient was suffering with Osteoarthritis for more than 5 , No doctor was willing to operate on him because of his Heart related issues. Dr Mir Jawad Sir has experience in handling sensitive surgeries.
     </p>
    </div>
-   <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/mFFeUy9xhiI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-    <p>
-   Female Patient 75years suffering from severe osteoarthritis both knees under went both knee replacement at same time.
-    </p>
-   </div>
-   <div class="col-md-3 inner-page-video-box clearfix">
-    <div class="viceo_box">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jiEaEJA2gWw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-    </div>
-    <p>
-   Partial Knee Replacement with the Arthrex® iBalance® UKA
-    </p>
-   </div>
+
+
 
    <div class="clr"></div>
    <div class="text-center">
@@ -343,7 +338,14 @@ function gtag_report_conversion(url) {
 <p>In a partial knee replacement, only the damaged part of the knee cartilage is replaced with prosthesis.</p>
 
 <p>Patients with medial, or lateral, knee osteoarthritis can be considered for partial knee replacement. "Medial" refers to the inside compartment of the joint, which is the compartment nearest the opposite knee, while "lateral" refers to the outside compartment farthest from the opposite knee. Medial knee joint degeneration is the most common deformity of arthritis.</p>
-
+<div class="col-md-6 inner-page-video-box clearfix">
+ <div class="viceo_box">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/jiEaEJA2gWw" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+ </div>
+ <p>
+Partial Knee Replacement with the Arthrex® iBalance® UKA
+ </p>
+</div>
 <p>What are the advantages of partial knee replacement over total knee replacement?</p>
 
 <p>Compared to total knee replacement, partial knee replacement better preserves range of motion and knee function because it preserves healthy tissue and bone in the knee. For these reasons, patients tend to be more satisfied with partial knee replacement compared with total knee replacement.</p>

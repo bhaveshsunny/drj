@@ -9,63 +9,63 @@
   gtag('config', 'AW-815147852');
 </script>
 
-<footer id="footer"> 
+<footer id="footer">
     <!--quote-container Start Here -->
     <div class="quote-container" style="padding:40px 0;">
       <div class="right-banner"></div>
       <div class="container">
         <div class="row">
-          
-          
+
+
           <div class="col-md-12 bottom-section clearfix">
-          
+
            <div class="row">
             <!--<div class="col-md-6 bottom-video-box clearfix">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/TGDKSH4sNZ8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width:100%;"></iframe>
-            
+
             </div>-->
             <div class="col-md-12 bottom-content-box clearfix">
              <div class="quote-box animate-effect">
               <h4>GE Health Care TATA training Center of Excellence for Operation Theater Technician& Paramedical Staff<i></i></h4>
-            
-				
-<img src="images/ge-healthcare.jpg" alt="Mountain View"  width="250" height="250">  
+
+
+<img src="images/ge-healthcare.jpg" alt="Mountain View"  width="250" height="250">
 
 
 
 
        </div>
             </div>
-           
-           
+
+
            </div>
-          
-          
-          
-           
+
+
+
+
           </div>
-          
-          
+
+
         </div>
       </div>
     </div>
-    <!--quote-container End Here --> 
+    <!--quote-container End Here -->
     <!--contact-us-container Start Here -->
- 
+
     <!--contact-us-container End Here -->
-    
+
     <div class="primary-footer">
       <div class="container">
         <div class="row animate-effect">
           <div class="col-xs-12 col-sm-3">
             <h3>CONTACT US <i></i></h3>
-              <div class="box"> 
+              <div class="box">
 			  <p>Fort View Colony, Upparpally,<p>
 				<p>	 Rajendranagar, Opp. Pillar No. 191,</p>
 				<p> PVNR express flyover.</p> </div>
 			    <div class="box call">
 				<p><i class="fa fa-mobile"></i> <strong> +91 99896 35555</strong></p>
-				<p><i class="fa fa-mobile"></i> <strong> +91 92465 99936</strong></p>				
+				<p><i class="fa fa-mobile"></i> <strong> +91 92465 99936</strong></p>
 				<p> <a href="mailto:mjzk5565@gmail.com" style="color:#9a9a9a;"><i class="fa fa-envelope"></i>  mjzk5565@gmail.com</a></p> </div>
           </div>
           <div class="col-xs-12 col-sm-3">
@@ -80,7 +80,7 @@
           </div>
           <div class="col-xs-12 col-sm-3">
             <h3>Special Procedures <i></i></h3>
-            
+
              <ul class="list clearfix">
               <li> <a href="hip-replacement.php">Hip Replacement</a> </li>
               <li> <a href="knee-joint-replacement.php">Knee Replacement</a> </li>
@@ -89,11 +89,11 @@
 			   <li> <a href="knee-joint-replacement.php">Makoplasty</a> </li>
 			   <li> <a href="knee-joint-replacement.php?#pkr">Partial Knee Replacement</a> </li>
             </ul>
-            
+
           </div>
 		    <div class="col-xs-12 col-sm-3">
             <h3>Follow Us  <i></i></h3>
-            
+
              <div class="box call">
               <ul class="socialIcons">
                 <li> <a href="#"><i class="fa fa-facebook"></i></a> </li>
@@ -103,8 +103,8 @@
 				<div class="clearfix"></div>
               </ul>
             </div>
-            <div class="box call bank"> 
-			<span><p>Banking Partner<p> 
+            <div class="box call bank">
+			<span><p>Banking Partner<p>
 			<img src="images/synd.png" alt="Smiley face" height="42" width="155"> </span> </div>
           </div>
         </div>
@@ -114,11 +114,43 @@
       </div>
     </div>
   </footer>
-  
-  
-  <div id="side-tabs">	
-  <a href="book-appointment.php">Book an Appointment</a></div>
-  
+
+
+  <div id="side-tabs">
+    <div class="side-button">
+      <a href="book-appointment.php">
+      <div>A</div>
+      <div>P</div>
+      <div>P</div>
+      <div>O</div>
+      <div>I</div>
+      <div>N</div>
+      <div>T</div>
+      <div>M</div>
+      <div>E</div>
+      <div>N</div>
+      <div>T</div>
+      </a>
+    </div>
+    <div class="side-button">
+      <a href="https://api.whatsapp.com/send?phone=919246599936">
+      <div><i class="fa fa-whatsapp"></i></div>
+      <div>W</div>
+      <div>H</div>
+      <div>A</div>
+      <div>T</div>
+      <div>T</div>
+      <div>S</div>
+      <div>A</div>
+      <div>P</div>
+      <div>P</div>
+      <div> </div>
+      <div>U</div>
+      <div>S</div>
+      </a>
+    </div>
+</div>
+
   <script>
   window.addEventListener('load',function(){
     jQuery('#eventForm').submit(function(){
@@ -143,4 +175,3 @@
     }
   })
 </script>
-  

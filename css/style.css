@@ -50,7 +50,7 @@
 	padding: 27px 0;
 }
 .testi_header {
-	
+
     font-size: 14px !important;
     line-height: 24px !important;
     color: #bf0000 !important;
@@ -576,8 +576,8 @@
 }
 .customer-says {
 	margin: 32px 30px 0 0;
-	border-right: 1px solid #dcdcdc;
-	padding-bottom: 173px;
+	text-align: center;
+	padding-bottom: 10px;
 }
 .customer-says h2 {
 	font-size: 50px;
@@ -4145,7 +4145,7 @@ input.error {
 /************************Aboutus sec************************************/
 
 
-		
+
 .content-panel.capital-campaign {
 	padding: 40px 0;
 	text-align: right;
@@ -4708,10 +4708,13 @@ input.error {
 	text-align: center;
 	transform: translateZ(0px);
 	z-index: 1;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	top: 18px;
 	height:192px;
+	width:160px;
 }
+
+
 .service-box.style-1::before, .service-box.style-1::after {
 	bottom: 0;
 	content: "";
@@ -4867,7 +4870,7 @@ input.error {
 	padding: 0px;
 	margin: 0px;
 	line-height: 38px;
-	cursor: pointer;/*    
+	cursor: pointer;/*
     .collapsed{
        .arrow:before{
                  font-family: FontAwesome;
@@ -5710,14 +5713,14 @@ figure.effect-jazz:hover p {
 
 
 .info-container .our-quality i.active, .quote, .quote-box a:hover, #slider .bottom-sec a:hover, .theme-b .quote:hover, .our-testimonial blockquote i, .our-quote-container .quote-box a:hover, .theme-c .quote:hover, .theme-b .our-contact li a:hover, .theme-b .right-header ul li a:hover, .theme-c .our-contact li a:hover, .theme-c .right-header ul li a:hover, .theme-d .right-header li a:hover, .project-container .detai-box li a:hover span, .our-testimonial-1 blockquote i, .our-team-container .team-slider .social-list a:hover, .contact-us-container .box li a:hover i, .contact-us-container .box span a:hover, .our-team-container .our-team-detail li .box .social-list a:hover, .blog-container-1 .blog-list .post-detail a:hover, .blog-container-1 .blog-list .cat-list li a, .blog-container-1 .blog-list .more:hover, .blog-container-2 .right-body .categories-list li a:hover, .blog-container-2 .left-body .post-detail a:hover, .blog-container-2 .left-body .cat-list li a, .blog-container-2 .left-body .more:hover, .comment-box li .msg-detail a, .leavecomment-box input[type="button"]:hover, .our_contact .left-detail input[type="button"]:hover, .our_contact .right-detail .social-icons a:hover, .theme-e .right-header li a:hover, .project-list .view:hover, .project-list .detail ul li a:hover span, .other-project li .over .view:hover, .project-detail-container .upper-box .right-detail li a:hover, .project-discription .feature-list li i, .primary-footer .list li a:hover, .info-container .our-quality li:hover i, .contact-us-container .contact-us, .project-list .detail h4 a:hover, .project-list-1 .detail h4 a:hover, .project-list-2 h4 a:hover, .blog-container-1 h3 a:hover, .left-body .half-box h3 a:hover, .blog-container-2 .left-body h3 a:hover, .blog-container-2 .right-body .post-list a:hover, #footer .subimt:hover, .our-clients .box li a:hover, .right-detail address li:hover .fa-envelope-o, .right-detail address li span a:hover, .name a:hover, .theme-a .menu li .submenu li a:hover, .detai-box li a:hover i, #testimonial-silder .flex-direction-nav .flex-prev:hover::before, #testimonial-silder .flex-direction-nav .flex-next:hover::before, .project-list .detail ul li a:hover i, .project-detail-container .upper-box .right-detail li a:hover i, .menu li .submenu li a:hover, .right-header li a:hover{
-	
+
 	color:#bf0000 !important;
 }
 .customer-says h2 i{
 	background-color:#000 !important;
 }
 .gallery-box .overlay{
-	border:4px solid #E9E9E9; 
+	border:4px solid #E9E9E9;
 }
 .gallery-box-image{
 	margin-bottom:30px;
@@ -5740,9 +5743,9 @@ figure.effect-jazz:hover p {
 .our-quality li:hover i.check-svg .stroke, .our-quality li.active i .stroke{
 	stroke: #bf0000 !important;
 }
-.our-quality li:hover i.check-svg path.fill, 
-.our-quality li.active i .fill, 
-.right-detail address li:hover 
+.our-quality li:hover i.check-svg path.fill,
+.our-quality li.active i .fill,
+.right-detail address li:hover
 .location-svg svg, .corve path{
 	fill: #bf0000 !important;
 }
@@ -5790,19 +5793,39 @@ figure.effect-jazz:hover p {
 .form-control{
 	background-color:#222;
 }
-#side-tabs a{
+#side-tabs {
   right: 0px !important;
-  top: 250px !important;
-  height: auto !important;    
-  width: 153px !important;   
-  margin: 0 !important;    
-  padding: 5px !important; 
-  position: fixed !important; 
-  z-index: 9999 !important;    
-  display: block !important;    
-  background: #000;    
-  color: #fff;
+  top: 150px !important;
+  height: auto !important;
+  margin: 0 !important;
+  position: fixed !important;
+  z-index: 9999 !important;
+  display: flex !important;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-end;
   font-weight:400;
+}
+
+.side-button {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 5px;
+  width: 25px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+#side-tabs a{
+	background: #000;
+  color: #fff;
+	margin-top: 5px;
+	padding: 5px;
 }
 .news-image-box{
 	position:relative;
@@ -5860,7 +5883,7 @@ figure.effect-jazz:hover p {
 .cutom-btn:hover,
 .cutom-btn:focus{
 	color:#fff;
-	background:#bf0000; 
+	background:#bf0000;
 }
 .view-profile-text{
 	text-align:left;
@@ -5941,7 +5964,7 @@ figure.effect-jazz:hover p {
 
 
 
-.testimonial-slider-box .slick-prev:before, 
+.testimonial-slider-box .slick-prev:before,
 .testimonial-slider-box .slick-next:before{
 	color:#000 !important;
 }
